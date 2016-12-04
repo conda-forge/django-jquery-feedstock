@@ -11,6 +11,18 @@ Summary: jQuery packaged in an handy django app to speed up new applications and
 
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/django-jquery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-jquery-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/django-jquery-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/django-jquery-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/django-jquery-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/django-jquery-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-jquery/badges/version.svg)](https://anaconda.org/conda-forge/django-jquery)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-jquery/badges/downloads.svg)](https://anaconda.org/conda-forge/django-jquery)
+
 Installing django-jquery
 ========================
 
@@ -66,18 +78,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/django-jquery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/django-jquery-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/django-jquery-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/django-jquery-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/django-jquery-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/django-jquery-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-jquery/badges/version.svg)](https://anaconda.org/conda-forge/django-jquery)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/django-jquery/badges/downloads.svg)](https://anaconda.org/conda-forge/django-jquery)
 
 
 Updating django-jquery-feedstock
